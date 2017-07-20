@@ -1,0 +1,18 @@
+h1   {color: white;
+      font-size: 20pt;}
+p    {font-size:14pt;
+        color: black }
+body {background-color: burlywood;
+}
+#iceCof {
+  background-image: url("https://cdn.averiecooks.com/wp-content/uploads/2011/05/icedcoffee-10.jpg");
+width: 400px;
+height: 400px;
+}
+#iceCream {
+  background-image: url(http://food.fnr.sndimg.com/content/dam/images/food/fullset/2015/7/21/3/FNM_090115-Strawberry-Crunch-Ice-Cream-Cake-Recipe_s4x3.jpg.rend.hgtvcom.616.462.suffix/1494524721165.jpeg);
+width: 616px;
+height: 462px;
+  color:white;
+font-size:20pt;
+}
